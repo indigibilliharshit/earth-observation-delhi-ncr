@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+pathlib
+shutil; python_version < '3.10'  # Only needed explicitly for older versions
+geopandas
+rasterio
+shapely
+pyproj
+torch
+torchvision
+torchmetrics
+scikit-learn
+Pillow
+opencv-python
