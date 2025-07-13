@@ -2,8 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn
-pathlib
-shutil; python_version < '3.10'  # Only needed explicitly for older versions
 geopandas
 rasterio
 shapely
