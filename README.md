@@ -80,7 +80,7 @@ Earth-Observation-Assignment/
 │   ├── landcover_distribution.png         # Land cover distribution
 │   ├── prediction_examples.png            # Model prediction examples
 │   └── training_curves.png                # Training/validation curves
-├── earth_observation_landcover_cla...      # Main analysis script
+├── earth_observation_landcover_classification.ipynb      # Main analysis script
 ├── earth_observation_report.pdf           # Comprehensive project report
 ├── requirements.txt                        # Python dependencies
 ├── LICENSE                                 # MIT License
