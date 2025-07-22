@@ -44,7 +44,7 @@ This project addresses **Scenario 1: Spatial Analysis and Land Cover Classificat
 
 ### Satellite Imagery
 - **Total Images**: 9,216 RGB satellite images
-- **Filtered Images**: 3,087 (after spatial filtering)
+- **Filtered Images**: 9,216 (after spatial filtering retained all images)
 - **Image Size**: 128×128 pixels per patch
 - **Coverage**: Delhi-NCR region
 
